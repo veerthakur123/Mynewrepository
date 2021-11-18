@@ -1,1 +1,24 @@
 learin git by torry harris trainner
+1 step:
+create a folder
+2 step:
+then initialize it using cmd prompt or git bas
+using command
+git init
+3 step:
+after initilize check status in cmd or git bash usin cammand
+ git status
+4 step :
+Now add folder to respirotary
+using command 
+git add .
+
+step 5:
+Now to to git hub account and create new repositiory
+for ex batch92-th
+
+after that commit it
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/veerthakur123/Mynewrepository.git
+git push -u
